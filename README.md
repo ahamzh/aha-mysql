@@ -1,2 +1,2 @@
-# aha-mysql
+# halo-mysql
 mysql笔记
